@@ -1,4 +1,4 @@
-# BazilHousing_Data_Hackathon
+# EDA_ON_BazilHousing_Data_Hackathon
 # Problem Statement
 Rio De Janeiro and Sao Paulo are among the most expensive cities to live in Brazil. Many people from these cities are considering relocating to a different city to live and work remotely.
 Castro Brazila Inc a top real estate management firm with a nationwide presence in Brazil , wishes to help people choose an alternate city to relocate to. 
